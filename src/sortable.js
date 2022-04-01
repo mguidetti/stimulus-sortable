@@ -1,4 +1,4 @@
-import { Controller } from 'stimulus'
+import { Controller } from '@hotwired/stimulus'
 import Sortable from 'sortablejs'
 import { v4 as uuidv4 } from 'uuid'
 
